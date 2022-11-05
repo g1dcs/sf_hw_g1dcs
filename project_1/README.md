@@ -1,11 +1,8 @@
 # <center> Проект № 1: Анализ резюме из HeadHunter
 
-## <center> Оглавление
+##  Оглавление
 [1. Описание проекта](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_1/README.md#Описание-проекта)\
 [2. Какой кейс решаем?](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_1/README.md#Какой-кейс-решаем)\
-[-  Условия задания](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_1/README.md#Условия-задания)\
-[-  Требования к оформлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_1/README.md#Требования-к-оформлению)\
-[- Что практикуем](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_1/README.md#Что-практикуем)\
 [3. Краткая информация о данных](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_1/README.md#Краткая-информация-о-данных)\
 [4. Этапы работы над проектом](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_1/README.md#Этапы-работы-над-проектом)\
 [5. Результат](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_1/README.md#Результаты)\
@@ -14,7 +11,7 @@
 ## Описание проекта:
 Провести обработку данных из базы резюме, выгруженной с сайта поиска вакансий hh.ru.
 
-:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_1/README.md#-оглавление)
 
 ## Какой кейс решаем?:
 
@@ -23,14 +20,14 @@
 3. Разведывательный анализ
 4. Очистка данных
 
-:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_1/README.md#-оглавление)
 
 ***Условия задания:***
 - Каждая часть состоит из блока практических заданий, которые необходимо выполнить в jupyter-ноутбуке.
-- Ноутбук необходимо оформить на основе предоставленного [шаблона](https://lms.skillfactory.ru/assets/courseware/v1/1577d067038f8073197105c174f05822/asset-v1:SkillFactory+DSPR-2.0+14JULY2021+type@asset+block/Project-1._%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb) и [требований](https://github.com/g1dcs/sf_hw_g1dcs/tree/main/project_1/README.md#Требования-к-оформлению).
+- Ноутбук необходимо оформить на основе предоставленного [шаблона](https://lms.skillfactory.ru/assets/courseware/v1/1577d067038f8073197105c174f05822/asset-v1:SkillFactory+DSPR-2.0+14JULY2021+type@asset+block/Project-1._%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb) и требований.
 - Отправить свой код ментору для code-ревью.
 
-***Требования к оформлению:***\
+***Требования к оформлению:***
 
 - Решение оформляется только в Jupyter Notebook.
 - Решение оформляется в соответствии с ноутбуком-шаблоном.
@@ -43,7 +40,7 @@
 - Обязательное требование: графики должны содержать название, отражающее их суть, и подписи осей.
 - Выводы к графикам оформляются в формате Markdown под самим графиком в отдельной ячейке (в шаблоне они помечены как ваши выводы здесь). Выводы должны быть представлены в виде небольших связанных предложений на русском языке.
 
-:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_1/README.md#-оглавление)
 
 ***Что практикуем:***
 
@@ -69,7 +66,7 @@
 12. Авто
 - Все данные изначально представлены типо *object*
 
-:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_1/README.md#-оглавление)
 
 ### Этапы работы над проектом:
 
@@ -78,14 +75,14 @@
 3. Исследование зависимости данных (разведывательный анализ).
 4. Отчистка данных.
 
-:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_1/README.md#-оглавление)
 
 ### Результаты:
 
 - [Ноутбук с резултаьами работы](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_1/Project-1.ipynb)
 - [Итоговый DataSet в формате .csv](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_1/dst-3.0_16_1_hh_database_cleared.csv)
 
-:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_1/README.md#-оглавление)
 
 ### Выводы:
 
@@ -95,4 +92,4 @@
 - Выявленны зависимости с изображением нагляных графиков.
 - Произведена работа над пропусками и неинформативными признакми.
 
-:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_1/README.md#-оглавление)
