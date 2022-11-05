@@ -1,6 +1,6 @@
 # <center> Проект № 1: Анализ резюме из HeadHunter
 
-##  Оглавление
+## Оглавление
 [1. Описание проекта](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_1/README.md#Описание-проекта)\
 [2. Какой кейс решаем?](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_1/README.md#Какой-кейс-решаем)\
 [3. Краткая информация о данных](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_1/README.md#Краткая-информация-о-данных)\
@@ -11,7 +11,7 @@
 ## Описание проекта:
 Провести обработку данных из базы резюме, выгруженной с сайта поиска вакансий hh.ru.
 
-:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_1/README.md#-оглавление)
+:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_1/README.md#Оглавление)
 
 ## Какой кейс решаем?:
 
@@ -40,7 +40,7 @@
 - Обязательное требование: графики должны содержать название, отражающее их суть, и подписи осей.
 - Выводы к графикам оформляются в формате Markdown под самим графиком в отдельной ячейке (в шаблоне они помечены как ваши выводы здесь). Выводы должны быть представлены в виде небольших связанных предложений на русском языке.
 
-:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_1/README.md#-оглавление)
+:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_1/README.md#Оглавление)
 
 ***Что практикуем:***
 
@@ -66,7 +66,7 @@
 12. Авто
 - Все данные изначально представлены типо *object*
 
-:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_1/README.md#-оглавление)
+:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_1/README.md#Оглавление)
 
 ### Этапы работы над проектом:
 
@@ -75,14 +75,14 @@
 3. Исследование зависимости данных (разведывательный анализ).
 4. Отчистка данных.
 
-:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_1/README.md#-оглавление)
+:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_1/README.md#Оглавление)
 
 ### Результаты:
 
 - [Ноутбук с резултаьами работы](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_1/Project-1.ipynb)
 - [Итоговый DataSet в формате .csv](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_1/dst-3.0_16_1_hh_database_cleared.csv)
 
-:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_1/README.md#-оглавление)
+:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_1/README.md#Оглавление)
 
 ### Выводы:
 
@@ -92,4 +92,4 @@
 - Выявленны зависимости с изображением нагляных графиков.
 - Произведена работа над пропусками и неинформативными признакми.
 
-:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_1/README.md#-оглавление)
+:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_1/README.md#Оглавление)
