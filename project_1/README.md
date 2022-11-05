@@ -10,6 +10,8 @@
 
 ## Описание проекта:
 Провести обработку данных из базы резюме, выгруженной с сайта поиска вакансий hh.ru.
+- Стартовый датасет можно загрузить [отсюда](https://drive.google.com/file/d/1rBjGq6jhFInQdtLGg7kNpJBywLL1NGzi/view?usp=sharing)
+- Дополнительный фаил по валютам можно скачать [здесь](https://drive.google.com/file/d/1R6ZI0fnHRPxe7NqcSUNH2pg22wtWfB9B/view?usp=sharing)
 
 :arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_1/README.md#Оглавление)
 
