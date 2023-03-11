@@ -2,24 +2,24 @@
 
 ## Оглавление
 [1. Описание проекта](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_3_eda/README.md#Описание-проекта)\
-[2. Какой кейс решаем?](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_2/README.md#Какой-кейс-решаем)\
-[3. Краткая информация о данных](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_2/README.md#Краткая-информация-о-данных)\
-[4. Этапы работы над проектом](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_2/README.md#Этапы-работы-над-проектом)\
-[5. Результат](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_2/README.md#Результаты)\
-[6. Выводы](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_2/README.md#Выводы)
+[2. Какой кейс решаем?](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/3_eda/README.md#Какой-кейс-решаем)\
+[3. Краткая информация о данных](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_3_eda/README.md#Краткая-информация-о-данных)\
+[4. Этапы работы над проектом](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_3_eda/README.md#Этапы-работы-над-проектом)\
+[5. Результат](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_3_eda/README.md#Результаты)\
+[6. Выводы](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_3_eda/README.md#Выводы)
 
 ## Описание проекта:
 
 *Представьте, что вы работаете дата-сайентистом в компании Booking. Одна из проблем компании — это нечестные отели, которые накручивают себе рейтинг. Одним из способов обнаружения таких отелей является построение модели, которая предсказывает рейтинг отеля. Если предсказания модели сильно отличаются от фактического результата, то, возможно, отель ведёт себя нечестно, и его стоит проверить..*
 
 
-:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_2/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_3_eda/README.md#Оглавление)
 
 ## Какой кейс решаем?:
 
 - Создание модели машинного обучения, которая будет определять реальный рейтинг отеля по исходным данным, не зависимо от рецензиатов.
 
-:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_2/README.md#-оглавление)
+:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_3_eda/README.md#-оглавление)
 
 ***Условия кейса:***
 Задачу, которая стоит перед вами, можно свести к пяти пунктам:
@@ -41,7 +41,7 @@
 - Выводы можно дополнительно проиллюстрировать с помощью графиков. Они оформляются в соответствии с теми правилами, которые мы приводили в модуле по визуализации данных.
 - Также необходимо загрузить решение на закрытое соревнование в kaggle.
 
-:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_2/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_3_eda/README.md#Оглавление)
 
 ***Что практикуем:***
 
@@ -72,7 +72,7 @@
 *Данные разделены на два фаила csv тестовый и тренеровочный. А также имеется фаил для итогового решения.*
 
 
-:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_2/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_3_eda/README.md#Оглавление)
 
 ### Этапы работы над проектом:
 
@@ -84,17 +84,18 @@
 6. Кодирование признаков.
 7. Проверка на мультиколленеарность.
 
-:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_2/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_3_eda/README.md#Оглавление)
 
 ### Результаты:
 
-- [Ноутбук с резултаьами работы](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_2/Project_2.ipynb)
+- [Ноутбук с резултаьами работы](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_3_eda/Project_3_kaggle.ipynb)
 
 
-:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_2/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_3_eda/README.md#Оглавление)
 
 ### Выводы:
 
 По результатам работы проведены все необходимые этапы, создана модель для проверки отзывов с результатом MAPE - 12,6.
+* Результат участия в соревновании на [kaggle](https://www.kaggle.com/code/pavelsharko/prolect-3-g1dcs/notebook#3.-EDA) 
 
-:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_2/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_3_eda/README.md#Оглавление)
