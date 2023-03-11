@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 
 dst-3.0_16_1_hh_database.csv
+project_3_eda/Data/hotels_test.csv
+project_3_eda/Data/hotels_train.csv
