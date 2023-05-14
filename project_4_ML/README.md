@@ -1,19 +1,19 @@
 # <center> Проект № 4: Создание ML модели для выявления лояльных клиентов
 
 ## Оглавление
-[1. Описание проекта](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_3_eda/README.md#Описание-проекта)\
-[2. Какой кейс решаем?](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/3_eda/README.md#Какой-кейс-решаем)\
-[3. Краткая информация о данных](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_3_eda/README.md#Краткая-информация-о-данных)\
-[4. Этапы работы над проектом](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_3_eda/README.md#Этапы-работы-над-проектом)\
-[5. Результат](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_3_eda/README.md#Результаты)\
-[6. Выводы](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_3_eda/README.md#Выводы)
+[1. Описание проекта](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_4_ML/README.md#Описание-проекта)\
+[2. Какой кейс решаем?](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_4_ML/README.md#Какой-кейс-решаем)\
+[3. Краткая информация о данных](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_4_ML/README.md#Краткая-информация-о-данных)\
+[4. Этапы работы над проектом](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_4_ML/README.md#Этапы-работы-над-проектом)\
+[5. Результат](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_4_ML/README.md#Результаты)\
+[6. Выводы](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_4_ML/README.md#Выводы)
 
 ## Описание проекта:
 
 *Вам предоставили данные о последней маркетинговой кампании, которую проводил банк: задачей было привлечь клиентов для открытия депозита. Вы должны проанализировать эти данные, выявить закономерность и найти решающие факторы, повлиявшие на то, что клиент вложил деньги именно в этот банк. Если вы сможете это сделать, то поднимете доходы банка и поможете понять целевую аудиторию, которую необходимо привлекать путём рекламы и различных предложений.*
 
 
-:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_3_eda/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_4_ML/README.md#Оглавление)
 
 ## Какой кейс решаем?:
 
@@ -21,7 +21,7 @@
 
 - *Техническая задача для вас как для специалиста в Data Science*: построить модель машинного обучения, которая на основе предложенных характеристик клиента будет предсказывать, воспользуется он предложением об открытии депозита или нет.
 
-:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_3_eda/README.md#-оглавление)
+:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_4_ML/README.md#-оглавление)
 
 ***ОСНОВНЫЕ ЦЕЛИ:***
 
@@ -39,7 +39,7 @@
 - Выводы можно дополнительно проиллюстрировать с помощью графиков. Они оформляются в соответствии с теми правилами, которые мы приводили в модуле по визуализации данных.
 
 
-:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_3_eda/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_4_ML/README.md#Оглавление)
 
 ***Что практикуем:***
 
@@ -80,7 +80,7 @@
 И, разумеется, наша целевая переменная **deposit**, которая определяет, согласится ли клиент открыть депозит в банке. Именно её мы будем пытаться предсказать в данном кейсе.
 
 
-:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_3_eda/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_4_ML/README.md#Оглавление)
 
 ### Этапы работы над проектом:
 
@@ -91,18 +91,18 @@
 5. Решение задачи классификации: ансамбли моделей и построение прогноза
 
 
-:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_3_eda/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_4_ML/README.md#Оглавление)
 
 ### Результаты:
 
-- [Ноутбук с резултаьами работы](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_3_eda/Project_3_kaggle.ipynb)
+- [Ноутбук с резултаьами работы](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_4_ML/Project_4_ML.ipynb)
 
 
-:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_3_eda/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_4_ML/README.md#Оглавление)
 
 ### Выводы:
 
 По результатам работы проведены все необходимые этапы, создана модель для предсказания оформит ли клиент депозит  accuracy = 0.83
 f1_score = 0.82
 
-:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_3_eda/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/g1dcs/sf_hw_g1dcs/blob/main/project_4_ML/README.md#Оглавление)
